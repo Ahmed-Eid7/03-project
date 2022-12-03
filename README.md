@@ -1,2 +1,2 @@
 # 03-project
-Create responsive page using HTML and CSS
+Create page using HTML and CSS
